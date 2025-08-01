@@ -1,0 +1,501 @@
+OrderID,OrderDate,CustomerID,CustomerName,Product,Category,Quantity,PricePerUnit,PaymentMethod,City,Country,TotalPrice
+ORD1000,2025-06-02,CUST267,Elizabeth Riggs,Keyboard,Accessories,3,308.56,PayPal,Stephanieberg,Spain,925.68
+ORD1001,2025-02-19,CUST927,Kendra Contreras,Webcam,Electronics,4,397.4,Credit Card,Bobbyland,Sudan,1589.6
+ORD1002,2025-02-02,CUST514,Tara Garcia,Mouse,Electronics,1,854.11,Bank Transfer,Sandraview,Nepal,854.11
+ORD1003,2025-06-21,CUST785,Deborah Preston,Webcam,Electronics,3,330.58,Bank Transfer,Lewisside,Iraq,991.74
+ORD1004,2025-03-23,CUST569,Brittney Campbell,Headphones,Electronics,3,186.1,Gift Card,Sarahview,Panama,558.3
+ORD1005,2025-03-17,CUST317,Grant Watts,Laptop,Electronics,4,565.67,Gift Card,North Christina,Ghana,2262.68
+ORD1006,2025-03-13,CUST754,Kathy King,Webcam,Electronics,1,937.43,Credit Card,East Brent,Pitcairn Islands,937.43
+ORD1007,2025-02-25,CUST710,Amber Walters,Smartphone,Accessories,1,702.11,Credit Card,Lake Jesse,Burundi,702.11
+ORD1008,2025-06-21,CUST135,Amanda Cook,Keyboard,Accessories,3,578.66,PayPal,South Markfort,Saint Helena,1735.98
+ORD1009,2025-02-17,CUST868,William Martin,Mouse,Electronics,2,115.23,PayPal,Lake Kellitown,Anguilla,230.46
+ORD1010,2025-06-09,CUST212,Michael Hoffman,Monitor,Accessories,3,622.71,Gift Card,South Denise,Palau,1868.13
+ORD1011,2025-06-21,CUST204,Tony Vazquez,Monitor,Accessories,3,990.25,Credit Card,Woodsborough,Luxembourg,2970.75
+ORD1012,2025-07-21,CUST402,Andrew Wood,Webcam,Electronics,3,157.28,Bank Transfer,Manuelton,French Polynesia,471.84
+ORD1013,2025-05-14,CUST659,Jessica Williams,Smartphone,Accessories,3,527.96,Gift Card,Lake Audreyside,Eritrea,1583.88
+ORD1014,2025-02-14,CUST650,Timothy Stanton,Keyboard,Accessories,4,879.83,Gift Card,East Robertburgh,United States of America,3519.32
+ORD1015,2025-05-23,CUST622,Hunter Fleming,Laptop,Electronics,1,745.95,Bank Transfer,Port Randyfort,Italy,745.95
+ORD1016,2025-04-20,CUST152,Heather Castro,Webcam,Accessories,4,703.08,PayPal,Lake Suzanne,Iraq,2812.32
+ORD1017,2025-02-04,CUST529,Valerie Brady,Keyboard,Electronics,4,708.43,PayPal,Nancytown,Iceland,2833.72
+ORD1018,2025-02-03,CUST602,Cynthia Martin,Smartphone,Accessories,4,372.3,Gift Card,Ashleyville,Saint Pierre and Miquelon,1489.2
+ORD1019,2025-02-16,CUST297,Cassandra Gutierrez,Webcam,Accessories,3,307.72,PayPal,Justinside,Argentina,923.16
+ORD1020,2025-03-12,CUST320,Tim Patton,Smartphone,Electronics,2,813.17,PayPal,Smallberg,Mozambique,1626.34
+ORD1021,2025-03-15,CUST768,Michael Moss,Monitor,Electronics,1,813.91,PayPal,Nelsonville,Russian Federation,813.91
+ORD1022,2025-05-07,CUST420,Christopher Haynes,Headphones,Electronics,2,869.73,Bank Transfer,Franciscomouth,Montenegro,1739.46
+ORD1023,2025-05-25,CUST248,Andrew Ruiz,Mouse,Accessories,4,914.98,Bank Transfer,Jennifertown,Suriname,3659.92
+ORD1024,2025-02-03,CUST508,Thomas Bailey,Headphones,Electronics,4,521.12,Credit Card,Krystalshire,Comoros,2084.48
+ORD1025,2025-05-17,CUST532,Shelby Walker,Monitor,Electronics,2,511.49,Gift Card,East Cheryl,Guam,1022.98
+ORD1026,2025-03-08,CUST607,Jennifer Ramirez,Smartphone,Electronics,2,802.33,Bank Transfer,Wilcoxhaven,Saint Kitts and Nevis,1604.66
+ORD1027,2025-06-17,CUST927,Raymond Bell,Laptop,Electronics,2,656.96,Bank Transfer,Christopherville,Rwanda,1313.92
+ORD1028,2025-06-04,CUST801,Meghan Anthony,Laptop,Accessories,4,707.93,Bank Transfer,East Thomas,Cyprus,2831.72
+ORD1029,2025-06-14,CUST768,Alexander Wiley,Smartphone,Electronics,4,799.88,Credit Card,North Jose,Poland,3199.52
+ORD1030,2025-05-14,CUST980,Kevin Terrell,Keyboard,Electronics,1,892.21,PayPal,South Karen,Marshall Islands,892.21
+ORD1031,2025-04-20,CUST962,Kyle Reed,Laptop,Electronics,1,351.24,Bank Transfer,Kevinshire,Northern Mariana Islands,351.24
+ORD1032,2025-03-12,CUST270,Jessica Joyce,Laptop,Accessories,4,388.07,Credit Card,West Desireebury,Slovenia,1552.28
+ORD1033,2025-04-26,CUST747,Steven Lee,Smartphone,Electronics,2,112.1,Bank Transfer,Lake Davidport,Lebanon,224.2
+ORD1034,2025-05-23,CUST424,Jeffrey Meyer,Monitor,Electronics,2,586.71,Credit Card,South Gina,United States of America,1173.42
+ORD1035,2025-03-24,CUST718,Melissa Bentley,Keyboard,Electronics,1,55.22,Credit Card,Hannahport,Wallis and Futuna,55.22
+ORD1036,2025-07-05,CUST341,Christina Reynolds,Laptop,Electronics,4,476.29,PayPal,Christinabury,Paraguay,1905.16
+ORD1037,2025-07-16,CUST289,Tammie Hanson,Webcam,Electronics,1,551.79,PayPal,South Eric,Guinea-Bissau,551.79
+ORD1038,2025-01-30,CUST646,Belinda Mccullough,Mouse,Accessories,1,300.81,Bank Transfer,Robertside,Macedonia,300.81
+ORD1039,2025-06-25,CUST386,Mary Nguyen,Headphones,Accessories,3,599.02,Bank Transfer,Toddborough,French Southern Territories,1797.06
+ORD1040,2025-07-04,CUST719,Kristen Lee,Smartphone,Accessories,3,49.89,Bank Transfer,Lake Karen,Tanzania,149.67
+ORD1041,2025-03-01,CUST533,Jamie Adkins,Mouse,Electronics,3,56.6,Gift Card,New Seanstad,Chile,169.8
+ORD1042,2025-06-13,CUST108,Keith Sullivan,Headphones,Electronics,2,826.15,Bank Transfer,New Danielside,Tajikistan,1652.3
+ORD1043,2025-04-21,CUST263,Elizabeth Clark,Webcam,Accessories,4,372.99,Bank Transfer,New Amanda,Palestinian Territory,1491.96
+ORD1044,2025-04-05,CUST102,Lisa Morris,Mouse,Electronics,4,144.52,Gift Card,West Melissa,Turkey,578.08
+ORD1045,2025-03-23,CUST843,Michael Dixon,Keyboard,Accessories,4,531.8,Credit Card,Wilsonborough,Micronesia,2127.2
+ORD1046,2025-02-28,CUST339,Toni Fitzgerald,Webcam,Electronics,4,774.59,Credit Card,Davishaven,Cocos (Keeling) Islands,3098.36
+ORD1047,2025-03-11,CUST864,Diane Beck,Monitor,Electronics,3,231.5,PayPal,Stokesmouth,French Polynesia,694.5
+ORD1048,2025-06-26,CUST560,Anna Crane,Smartphone,Accessories,2,630.43,Credit Card,New Robert,Bhutan,1260.86
+ORD1049,2025-04-04,CUST657,Eric Drake,Keyboard,Electronics,2,103.64,PayPal,New Stevenport,Latvia,207.28
+ORD1050,2025-02-17,CUST739,Angel Riggs,Webcam,Accessories,3,70.65,Credit Card,South Jonathantown,Brunei Darussalam,211.95
+ORD1051,2025-02-16,CUST149,Patricia Gibson,Mouse,Electronics,2,540.73,Gift Card,New Charles,Saint Vincent and the Grenadines,1081.46
+ORD1052,2025-04-12,CUST816,Laura Higgins,Monitor,Accessories,3,549.82,Gift Card,Cooperland,Eritrea,1649.46
+ORD1053,2025-02-16,CUST495,James Hernandez,Smartphone,Electronics,4,644.68,PayPal,North Valeriefort,Saint Kitts and Nevis,2578.72
+ORD1054,2025-04-08,CUST872,Stephanie Dalton,Laptop,Accessories,3,731.57,Gift Card,West Robertberg,Sri Lanka,2194.71
+ORD1055,2025-07-12,CUST945,Paula Robinson,Webcam,Electronics,4,976.34,PayPal,Brooksfurt,Moldova,3905.36
+ORD1056,2025-04-05,CUST294,Melissa Marshall,Smartphone,Electronics,4,525.97,Bank Transfer,Kanefurt,Serbia,2103.88
+ORD1057,2025-05-26,CUST987,Sylvia Martinez,Mouse,Accessories,1,336.5,PayPal,Millerside,United States Minor Outlying Islands,336.5
+ORD1058,2025-03-21,CUST371,John Schmidt,Keyboard,Electronics,3,799.28,PayPal,Lake Michelle,Cocos (Keeling) Islands,2397.84
+ORD1059,2025-07-04,CUST128,Emily Fischer,Monitor,Electronics,1,285.42,PayPal,East Victoriafurt,Yemen,285.42
+ORD1060,2025-02-06,CUST732,Robert Mcclain,Smartphone,Accessories,3,450.19,PayPal,Lake Tiffany,Pitcairn Islands,1350.57
+ORD1061,2025-06-19,CUST564,Terry Griffin,Monitor,Accessories,3,96.89,Bank Transfer,Port Andrewport,United Arab Emirates,290.67
+ORD1062,2025-04-28,CUST414,Scott Cole,Webcam,Accessories,1,44.84,PayPal,Nunezside,Grenada,44.84
+ORD1063,2025-05-13,CUST384,Sara Ramirez,Mouse,Accessories,1,963.4,Credit Card,Patelbury,Palau,963.4
+ORD1064,2025-02-22,CUST895,Kari Allen,Webcam,Accessories,3,839.26,Credit Card,South Michael,Benin,2517.78
+ORD1065,2025-07-27,CUST867,Micheal Young,Monitor,Accessories,2,702.05,Bank Transfer,Jacobville,Cyprus,1404.1
+ORD1066,2025-04-12,CUST659,Steven Miller,Monitor,Electronics,4,420.77,PayPal,Port Donnatown,Guinea,1683.08
+ORD1067,2025-02-13,CUST525,James Hernandez,Keyboard,Accessories,1,189.83,Credit Card,East Carlos,Czech Republic,189.83
+ORD1068,2025-05-16,CUST166,Jason Rivera,Monitor,Accessories,4,173.31,Credit Card,South Carlaton,Samoa,693.24
+ORD1069,2025-03-26,CUST823,Antonio Wall,Laptop,Electronics,2,265.24,PayPal,Lake Bradley,Tunisia,530.48
+ORD1070,2025-07-09,CUST772,Randy Shah,Smartphone,Electronics,2,558.24,PayPal,Youngborough,Gambia,1116.48
+ORD1071,2025-05-31,CUST494,Spencer Johnston,Mouse,Accessories,2,720.3,PayPal,East Williamport,Italy,1440.6
+ORD1072,2025-05-29,CUST965,Tommy Evans,Mouse,Electronics,1,666.99,Credit Card,Port Sabrina,Solomon Islands,666.99
+ORD1073,2025-07-19,CUST908,Steven Houston,Mouse,Accessories,2,294.34,PayPal,Barbaramouth,Tuvalu,588.68
+ORD1074,2025-07-15,CUST663,Morgan Marsh,Mouse,Electronics,1,955.77,Credit Card,West Nancy,Greenland,955.77
+ORD1075,2025-04-09,CUST707,Katherine Nelson,Mouse,Accessories,2,743.14,Credit Card,South Kevin,Holy See (Vatican City State),1486.28
+ORD1076,2025-05-21,CUST225,Mr. Michael Yates,Keyboard,Electronics,4,563.27,PayPal,New Stacyburgh,Eritrea,2253.08
+ORD1077,2025-03-07,CUST732,Sara Calhoun,Laptop,Accessories,4,619.49,PayPal,Peterston,Mozambique,2477.96
+ORD1078,2025-06-14,CUST304,Ms. Susan Vargas,Laptop,Accessories,3,431.21,Credit Card,Shellyfurt,French Polynesia,1293.63
+ORD1079,2025-02-11,CUST702,Angela Patterson,Keyboard,Accessories,4,262.78,Bank Transfer,Heatherchester,Kyrgyz Republic,1051.12
+ORD1080,2025-02-06,CUST665,Catherine Green,Headphones,Accessories,3,368.85,Bank Transfer,West Nicholas,Thailand,1106.55
+ORD1081,2025-06-06,CUST257,Jesse Rogers,Monitor,Accessories,4,762.69,Credit Card,Allenbury,British Indian Ocean Territory (Chagos Archipelago),3050.76
+ORD1082,2025-03-14,CUST821,Diana Bean,Mouse,Accessories,1,34.11,PayPal,Meredithberg,Latvia,34.11
+ORD1083,2025-06-28,CUST799,Ruben Ruiz,Webcam,Accessories,4,133.75,Credit Card,Melendezside,Austria,535.0
+ORD1084,2025-03-26,CUST114,Amy Crane,Laptop,Electronics,3,65.08,Bank Transfer,Faulknerside,Tonga,195.24
+ORD1085,2025-02-13,CUST797,Barry Bernard,Mouse,Accessories,3,59.91,Bank Transfer,South John,Norfolk Island,179.73
+ORD1086,2025-07-14,CUST860,Andre Wright,Smartphone,Electronics,2,858.35,Bank Transfer,West Deborah,Mozambique,1716.7
+ORD1087,2025-03-15,CUST701,Lisa Allen,Smartphone,Accessories,1,709.58,PayPal,Booneland,Morocco,709.58
+ORD1088,2025-07-16,CUST677,Brian Gould,Headphones,Accessories,4,484.69,PayPal,North Joseph,Western Sahara,1938.76
+ORD1089,2025-02-17,CUST951,David Wood,Mouse,Accessories,2,115.88,PayPal,Port Charlesshire,Nicaragua,231.76
+ORD1090,2025-04-12,CUST690,Tracey Higgins,Keyboard,Accessories,4,501.78,PayPal,South Jason,Barbados,2007.12
+ORD1091,2025-03-23,CUST872,Carla Collins,Mouse,Accessories,4,484.0,PayPal,Kevintown,Latvia,1936.0
+ORD1092,2025-04-27,CUST375,Tanya Johnston,Webcam,Electronics,2,189.74,Bank Transfer,East Suzanne,Tuvalu,379.48
+ORD1093,2025-06-01,CUST582,Jaime David,Smartphone,Electronics,2,445.17,Gift Card,Lake Yvonnefort,Congo,890.34
+ORD1094,2025-07-09,CUST569,Kevin Rivas,Keyboard,Accessories,2,410.53,PayPal,Lake Cassandra,Macao,821.06
+ORD1095,2025-04-09,CUST268,Michael Turner,Webcam,Accessories,2,623.53,Bank Transfer,South Rose,British Indian Ocean Territory (Chagos Archipelago),1247.06
+ORD1096,2025-03-01,CUST353,Renee Hogan,Smartphone,Accessories,2,642.39,Credit Card,Kimberlyfurt,Trinidad and Tobago,1284.78
+ORD1097,2025-04-10,CUST211,Amanda Patel,Headphones,Electronics,4,64.4,Gift Card,Fergusonstad,Pitcairn Islands,257.6
+ORD1098,2025-04-07,CUST805,Andrea Holland,Headphones,Accessories,2,387.12,Gift Card,Josehaven,Hong Kong,774.24
+ORD1099,2025-03-10,CUST853,Jason Henry,Smartphone,Accessories,1,633.34,PayPal,Owensfort,Malta,633.34
+ORD1100,2025-06-08,CUST706,Jack Snow,Headphones,Electronics,3,513.07,PayPal,Robinstad,French Southern Territories,1539.21
+ORD1101,2025-03-21,CUST227,Christian Thompson,Webcam,Accessories,2,859.36,Credit Card,Robertshire,Isle of Man,1718.72
+ORD1102,2025-06-14,CUST995,Marie Gilbert,Laptop,Accessories,2,665.52,PayPal,Lake Dustin,Austria,1331.04
+ORD1103,2025-07-29,CUST845,Patricia Marshall,Smartphone,Electronics,4,179.68,PayPal,Angelashire,Trinidad and Tobago,718.72
+ORD1104,2025-06-10,CUST460,Leslie Morris,Mouse,Electronics,2,89.16,Credit Card,Phillipsborough,Timor-Leste,178.32
+ORD1105,2025-06-03,CUST239,Timothy Ramirez,Headphones,Electronics,2,649.57,PayPal,Jerryshire,Canada,1299.14
+ORD1106,2025-02-11,CUST285,Paul Hudson,Webcam,Electronics,2,45.98,Credit Card,South Andrea,Burundi,91.96
+ORD1107,2025-05-27,CUST139,Gabrielle Snyder,Monitor,Accessories,4,594.06,Gift Card,Jonathanfort,Cook Islands,2376.24
+ORD1108,2025-06-01,CUST386,John Kelly,Mouse,Accessories,2,941.43,Credit Card,Murraystad,Guam,1882.86
+ORD1109,2025-03-03,CUST965,Douglas Carlson,Smartphone,Electronics,3,583.96,PayPal,East Jennifer,Ireland,1751.88
+ORD1110,2025-05-12,CUST387,Kristi Black,Headphones,Accessories,4,400.41,Gift Card,Whiteside,Mongolia,1601.64
+ORD1111,2025-06-19,CUST739,David Russell,Smartphone,Accessories,3,650.42,PayPal,New Arthurland,Uganda,1951.26
+ORD1112,2025-03-17,CUST443,Cynthia Alvarez,Headphones,Electronics,4,469.09,Bank Transfer,Port Adamberg,United States of America,1876.36
+ORD1113,2025-03-01,CUST595,Joan Smith,Laptop,Accessories,2,554.7,Gift Card,North Jasmine,Kuwait,1109.4
+ORD1114,2025-04-28,CUST311,Jared Sanchez,Keyboard,Accessories,3,942.64,Gift Card,East Williamstad,Cambodia,2827.92
+ORD1115,2025-04-12,CUST665,Jackie Tran,Smartphone,Accessories,4,398.38,Bank Transfer,New Danafort,Germany,1593.52
+ORD1116,2025-03-22,CUST220,Zachary Pierce,Smartphone,Accessories,1,961.97,Bank Transfer,Smithside,Tokelau,961.97
+ORD1117,2025-07-27,CUST131,Jesse Parker,Keyboard,Accessories,2,907.24,Credit Card,Smithhaven,Saint Barthelemy,1814.48
+ORD1118,2025-06-02,CUST619,Nathan Stewart,Monitor,Electronics,4,211.88,Bank Transfer,Amandaport,Cocos (Keeling) Islands,847.52
+ORD1119,2025-06-11,CUST402,Tiffany Vaughn,Laptop,Electronics,1,87.97,Bank Transfer,New Lisachester,Slovakia (Slovak Republic),87.97
+ORD1120,2025-05-17,CUST109,Parker Hill,Headphones,Accessories,4,118.76,Gift Card,North Samantha,Belgium,475.04
+ORD1121,2025-03-12,CUST306,Paige Carlson,Smartphone,Accessories,1,37.86,Bank Transfer,East James,Libyan Arab Jamahiriya,37.86
+ORD1122,2025-06-10,CUST554,Dr. Elizabeth Ward,Headphones,Electronics,2,112.55,Credit Card,Lisaview,Grenada,225.1
+ORD1123,2025-04-01,CUST646,Michael Martinez,Headphones,Electronics,3,689.35,Gift Card,Millerfurt,Niue,2068.05
+ORD1124,2025-07-11,CUST419,Anthony Carter,Monitor,Electronics,1,89.76,Credit Card,Cunninghambury,Christmas Island,89.76
+ORD1125,2025-06-27,CUST671,Margaret Mullins,Headphones,Electronics,4,332.6,Bank Transfer,Gabriellaland,Germany,1330.4
+ORD1126,2025-06-28,CUST837,Adam Mitchell,Smartphone,Electronics,2,847.98,Gift Card,North Richardfurt,Norfolk Island,1695.96
+ORD1127,2025-02-08,CUST353,Glen Sheppard,Monitor,Accessories,1,42.81,Credit Card,Browntown,Azerbaijan,42.81
+ORD1128,2025-03-14,CUST596,Scott Wilson,Headphones,Electronics,4,818.18,Credit Card,North Vincent,Albania,3272.72
+ORD1129,2025-07-07,CUST264,John Ray,Mouse,Accessories,4,296.22,PayPal,Newmanmouth,Korea,1184.88
+ORD1130,2025-02-04,CUST765,Brittany Shepherd,Headphones,Accessories,4,135.8,PayPal,New Samanthabury,Falkland Islands (Malvinas),543.2
+ORD1131,2025-07-04,CUST267,Angela Wright,Keyboard,Accessories,1,702.8,Credit Card,Port Heather,Cote d'Ivoire,702.8
+ORD1132,2025-03-31,CUST558,Jennifer Carlson,Webcam,Accessories,1,636.36,Gift Card,Nelsonland,Senegal,636.36
+ORD1133,2025-04-16,CUST800,Patricia James,Monitor,Electronics,1,879.92,Gift Card,Rachelshire,Singapore,879.92
+ORD1134,2025-03-21,CUST770,Elizabeth Chapman,Smartphone,Accessories,3,740.37,PayPal,East Sarahmouth,Chile,2221.11
+ORD1135,2025-02-10,CUST872,Keith Brown,Monitor,Accessories,1,807.41,Bank Transfer,East Brendafurt,Montserrat,807.41
+ORD1136,2025-03-10,CUST133,Annette Farmer,Laptop,Accessories,1,296.39,Credit Card,West Franciscobury,Serbia,296.39
+ORD1137,2025-07-25,CUST134,Deborah Miller,Webcam,Electronics,1,193.89,PayPal,Rhodesside,Cayman Islands,193.89
+ORD1138,2025-05-19,CUST138,Juan Moore,Headphones,Electronics,3,755.6,PayPal,Patrickberg,Liechtenstein,2266.8
+ORD1139,2025-07-18,CUST225,Michael Harrison,Headphones,Accessories,1,810.7,Credit Card,New Juliestad,Solomon Islands,810.7
+ORD1140,2025-06-17,CUST339,Dwayne Campbell,Laptop,Electronics,4,990.7,Credit Card,North Samuelland,Serbia,3962.8
+ORD1141,2025-03-31,CUST417,Andrea Hall,Webcam,Electronics,1,424.37,Gift Card,Cassiefurt,Slovakia (Slovak Republic),424.37
+ORD1142,2025-03-11,CUST239,Rick Lawrence,Laptop,Accessories,4,384.58,Gift Card,Anthonyview,Benin,1538.32
+ORD1143,2025-06-05,CUST791,Christina Wilson,Smartphone,Accessories,4,780.88,Credit Card,Henrystad,Bulgaria,3123.52
+ORD1144,2025-05-05,CUST623,Chase Baker,Smartphone,Electronics,4,353.99,Gift Card,Reynoldsshire,New Zealand,1415.96
+ORD1145,2025-04-15,CUST465,Anthony Sparks,Monitor,Accessories,3,932.14,Gift Card,Millerport,Jordan,2796.42
+ORD1146,2025-07-19,CUST276,Samantha Morse,Mouse,Electronics,3,861.24,Bank Transfer,Lake Charles,Norfolk Island,2583.72
+ORD1147,2025-07-25,CUST641,John Torres,Laptop,Electronics,3,440.41,Bank Transfer,Ericberg,Japan,1321.23
+ORD1148,2025-06-02,CUST525,Dillon Fernandez,Webcam,Accessories,1,755.85,Bank Transfer,Stewartville,Iraq,755.85
+ORD1149,2025-04-28,CUST516,Kyle Preston,Keyboard,Electronics,4,759.45,Gift Card,North Sherrymouth,Japan,3037.8
+ORD1150,2025-02-25,CUST428,Lindsey Johnson,Monitor,Electronics,3,121.06,Bank Transfer,Kathleenville,Lesotho,363.18
+ORD1151,2025-03-21,CUST837,Michael Valencia,Headphones,Electronics,3,904.5,Credit Card,North Jacob,Hungary,2713.5
+ORD1152,2025-02-25,CUST966,Alicia Hubbard,Laptop,Accessories,1,515.15,Bank Transfer,Hawkinshaven,Albania,515.15
+ORD1153,2025-03-17,CUST603,Laura Hines,Monitor,Accessories,3,829.93,PayPal,Garcialand,Argentina,2489.79
+ORD1154,2025-06-22,CUST542,Joseph Ramos,Monitor,Electronics,1,333.65,Credit Card,Angelamouth,Marshall Islands,333.65
+ORD1155,2025-05-18,CUST733,Zachary Graham,Webcam,Electronics,2,897.61,PayPal,Smithchester,Cook Islands,1795.22
+ORD1156,2025-05-13,CUST261,Tracy Harrison,Keyboard,Accessories,3,401.42,Credit Card,Maxwellside,Saint Martin,1204.26
+ORD1157,2025-03-21,CUST488,Frank Garcia,Headphones,Accessories,2,30.62,Credit Card,New Adriana,Holy See (Vatican City State),61.24
+ORD1158,2025-06-23,CUST140,Jason Simpson,Smartphone,Accessories,1,907.27,Bank Transfer,Jacksonview,Zambia,907.27
+ORD1159,2025-05-22,CUST556,Jennifer Hodges,Smartphone,Electronics,4,109.46,Credit Card,Josephberg,American Samoa,437.84
+ORD1160,2025-04-22,CUST137,Brandon King,Monitor,Electronics,3,332.93,PayPal,East Ryanchester,Uganda,998.79
+ORD1161,2025-07-22,CUST418,Raymond Hancock,Laptop,Electronics,1,951.06,Credit Card,Toddland,Gibraltar,951.06
+ORD1162,2025-05-22,CUST643,April Booth,Smartphone,Accessories,4,951.6,Gift Card,Johnathanbury,Saudi Arabia,3806.4
+ORD1163,2025-04-16,CUST259,Anthony Stone,Laptop,Electronics,4,581.97,Gift Card,Wheelerborough,Syrian Arab Republic,2327.88
+ORD1164,2025-04-09,CUST369,Kathleen Ramos,Mouse,Accessories,2,639.2,Gift Card,Rodriguezport,Malta,1278.4
+ORD1165,2025-03-12,CUST235,Derek Anderson,Monitor,Electronics,1,459.48,Credit Card,South Martinfurt,Comoros,459.48
+ORD1166,2025-02-24,CUST228,Stanley Washington,Keyboard,Accessories,4,307.35,PayPal,Scottchester,Andorra,1229.4
+ORD1167,2025-05-07,CUST213,Mark Lloyd,Mouse,Accessories,3,342.09,Gift Card,West Malik,Philippines,1026.27
+ORD1168,2025-05-04,CUST538,Emily Smith,Laptop,Electronics,3,679.07,Credit Card,South Leon,Albania,2037.21
+ORD1169,2025-02-15,CUST678,Danny Skinner,Webcam,Accessories,2,757.33,PayPal,Novakport,Nigeria,1514.66
+ORD1170,2025-06-24,CUST265,Travis Holland,Smartphone,Accessories,4,795.75,PayPal,Faulknerbury,Saint Martin,3183.0
+ORD1171,2025-02-07,CUST786,Timothy Carter,Webcam,Electronics,1,793.83,PayPal,Nicholasfurt,Egypt,793.83
+ORD1172,2025-07-15,CUST280,Jennifer Olson,Keyboard,Accessories,3,109.38,Bank Transfer,Danielshire,Czech Republic,328.14
+ORD1173,2025-02-19,CUST691,Jesus Thomas,Keyboard,Accessories,4,504.53,PayPal,New Wendy,Puerto Rico,2018.12
+ORD1174,2025-02-27,CUST199,Kyle Francis,Mouse,Accessories,4,76.41,Credit Card,Lake Katrina,Turkey,305.64
+ORD1175,2025-05-30,CUST382,Benjamin Barton,Laptop,Electronics,2,558.54,Credit Card,Lake Stevenborough,Guatemala,1117.08
+ORD1176,2025-03-01,CUST292,Gina French,Keyboard,Accessories,3,452.7,Gift Card,Salinasland,Georgia,1358.1
+ORD1177,2025-07-01,CUST593,Aaron Barber,Keyboard,Accessories,3,889.95,Gift Card,Chambersberg,Bulgaria,2669.85
+ORD1178,2025-06-10,CUST904,Lauren Keller,Keyboard,Electronics,1,363.9,PayPal,Johnberg,Bosnia and Herzegovina,363.9
+ORD1179,2025-04-20,CUST214,Jill Washington,Monitor,Accessories,3,134.73,Bank Transfer,Mccormickland,Hungary,404.19
+ORD1180,2025-05-24,CUST979,Phillip Bennett,Monitor,Electronics,1,160.13,Bank Transfer,Ewingfort,Macao,160.13
+ORD1181,2025-02-10,CUST868,Sheila Pollard,Laptop,Accessories,3,766.28,PayPal,Fergusonchester,Myanmar,2298.84
+ORD1182,2025-04-13,CUST277,James Chase,Monitor,Electronics,2,625.85,Bank Transfer,Port Tanyaside,Gambia,1251.7
+ORD1183,2025-04-13,CUST974,Evan Kennedy,Webcam,Accessories,3,119.1,Credit Card,North Kaylastad,Chad,357.3
+ORD1184,2025-05-24,CUST792,Jane Mcneil,Webcam,Accessories,1,102.42,PayPal,Lake Cheyenne,Bahrain,102.42
+ORD1185,2025-04-29,CUST737,Marissa Hernandez,Mouse,Accessories,1,706.95,Credit Card,Rasmussenmouth,Swaziland,706.95
+ORD1186,2025-05-11,CUST520,Beth Sanford,Keyboard,Accessories,2,91.31,Gift Card,Rodriguezville,Aruba,182.62
+ORD1187,2025-03-18,CUST545,Brian Kirk,Headphones,Electronics,3,825.42,Bank Transfer,Jeffreyhaven,French Southern Territories,2476.26
+ORD1188,2025-05-16,CUST102,Thomas Smith,Smartphone,Electronics,3,712.12,Gift Card,South Neil,Yemen,2136.36
+ORD1189,2025-07-15,CUST124,Seth Booker,Monitor,Electronics,2,99.72,PayPal,Bartonshire,French Guiana,199.44
+ORD1190,2025-01-31,CUST972,Richard Baker,Monitor,Accessories,3,103.14,Bank Transfer,West Whitney,Korea,309.42
+ORD1191,2025-06-10,CUST212,Jennifer Miller,Keyboard,Electronics,3,986.91,Bank Transfer,Garciachester,Saint Lucia,2960.73
+ORD1192,2025-06-17,CUST584,Michael Ferguson,Laptop,Electronics,1,386.79,PayPal,North Marieberg,Maldives,386.79
+ORD1193,2025-02-20,CUST473,Lori Clay,Keyboard,Electronics,3,383.23,PayPal,Larrymouth,Nauru,1149.69
+ORD1194,2025-06-10,CUST734,Joshua Williamson II,Laptop,Accessories,3,816.54,PayPal,New Timothy,Mali,2449.62
+ORD1195,2025-07-19,CUST915,Donna Perez,Smartphone,Accessories,2,948.3,Bank Transfer,Davismouth,Guadeloupe,1896.6
+ORD1196,2025-05-13,CUST585,William Hodges,Smartphone,Electronics,2,986.28,Credit Card,Carloston,Jordan,1972.56
+ORD1197,2025-06-23,CUST656,Ashlee Jackson,Mouse,Electronics,4,758.31,PayPal,North Melindaville,Tuvalu,3033.24
+ORD1198,2025-03-21,CUST588,Allen Nguyen,Laptop,Accessories,1,388.73,Gift Card,Lake John,Poland,388.73
+ORD1199,2025-06-27,CUST420,Ian Jordan,Monitor,Accessories,3,101.83,Gift Card,New Ethan,Burkina Faso,305.49
+ORD1200,2025-06-02,CUST972,Jason Maldonado,Mouse,Electronics,3,781.6,Bank Transfer,Mullenbury,Guam,2344.8
+ORD1201,2025-04-05,CUST367,Christopher Lynch,Headphones,Electronics,4,567.24,PayPal,Sotoburgh,United Arab Emirates,2268.96
+ORD1202,2025-02-19,CUST671,Michael Jimenez,Smartphone,Electronics,3,435.74,Credit Card,Fosterborough,Liechtenstein,1307.22
+ORD1203,2025-03-26,CUST337,Crystal Little,Headphones,Accessories,1,908.23,Credit Card,Vargasfurt,Guinea-Bissau,908.23
+ORD1204,2025-04-23,CUST651,Michael Nolan,Laptop,Accessories,4,128.97,PayPal,Lake Jasonview,Sao Tome and Principe,515.88
+ORD1205,2025-02-28,CUST350,Dwayne Payne,Headphones,Electronics,1,502.77,Credit Card,New Cristianside,Comoros,502.77
+ORD1206,2025-04-27,CUST267,Tony Huerta,Mouse,Electronics,4,31.13,Bank Transfer,West Mark,Chad,124.52
+ORD1207,2025-01-29,CUST389,Victor Vaughn,Headphones,Accessories,4,479.29,PayPal,Wilsonfort,Yemen,1917.16
+ORD1208,2025-06-18,CUST149,Eric Kidd,Laptop,Electronics,2,75.18,Bank Transfer,Candicefurt,United States of America,150.36
+ORD1209,2025-07-18,CUST393,Ashley James,Webcam,Electronics,1,136.44,Gift Card,West Michaelmouth,Uruguay,136.44
+ORD1210,2025-06-17,CUST688,Edward Lyons,Keyboard,Accessories,3,135.18,Credit Card,Port Emily,Sudan,405.54
+ORD1211,2025-03-21,CUST222,Ronald Foster,Smartphone,Accessories,3,656.23,PayPal,Samanthashire,Iraq,1968.69
+ORD1212,2025-05-06,CUST155,Sean Osborne,Smartphone,Accessories,1,751.12,Bank Transfer,Lake Dennisville,Andorra,751.12
+ORD1213,2025-06-25,CUST969,Susan Mcgee,Headphones,Accessories,3,591.7,Credit Card,West Daryl,Denmark,1775.1
+ORD1214,2025-03-04,CUST512,Stephanie Parsons,Headphones,Electronics,3,962.93,Bank Transfer,Heatherhaven,Czech Republic,2888.79
+ORD1215,2025-05-07,CUST810,Robert Robinson,Mouse,Accessories,1,387.37,PayPal,Barnesberg,Saint Lucia,387.37
+ORD1216,2025-07-25,CUST745,David Campos,Mouse,Accessories,4,300.0,Bank Transfer,Hendersonfort,Bulgaria,1200.0
+ORD1217,2025-02-18,CUST700,Melanie Taylor,Mouse,Accessories,1,871.23,PayPal,New Garrett,Croatia,871.23
+ORD1218,2025-07-17,CUST515,Mark Williams,Keyboard,Electronics,4,239.12,PayPal,Donaldmouth,Saint Martin,956.48
+ORD1219,2025-05-30,CUST540,Amanda Diaz,Laptop,Electronics,3,963.96,Credit Card,Harveystad,Angola,2891.88
+ORD1220,2025-03-27,CUST667,Theodore Murphy,Headphones,Accessories,3,31.91,Credit Card,South Derrickfurt,Myanmar,95.73
+ORD1221,2025-07-11,CUST759,Curtis Buchanan,Monitor,Electronics,3,970.48,Gift Card,Ortizfort,Macedonia,2911.44
+ORD1222,2025-06-02,CUST665,Holly Shaw,Headphones,Accessories,2,62.3,PayPal,Mckinneymouth,Chile,124.6
+ORD1223,2025-05-07,CUST520,Christopher Sloan,Monitor,Electronics,4,893.32,Bank Transfer,Jacksonshire,British Virgin Islands,3573.28
+ORD1224,2025-05-27,CUST220,Tracy Phillips,Headphones,Accessories,2,537.15,Gift Card,Port Kathleenport,Haiti,1074.3
+ORD1225,2025-03-08,CUST113,Regina Mcdonald,Mouse,Accessories,2,993.11,Gift Card,West Jeffreyport,Rwanda,1986.22
+ORD1226,2025-02-27,CUST424,Paul Perez,Smartphone,Accessories,1,92.32,Bank Transfer,Port Stephen,Pakistan,92.32
+ORD1227,2025-04-11,CUST906,Megan Sanders,Mouse,Accessories,2,562.78,PayPal,Dunnville,Somalia,1125.56
+ORD1228,2025-06-26,CUST670,Kristin Davis,Laptop,Electronics,1,969.92,Credit Card,West Kimberlystad,Argentina,969.92
+ORD1229,2025-03-01,CUST481,Dennis Martinez,Headphones,Electronics,1,532.64,Gift Card,Port Jenniferside,Honduras,532.64
+ORD1230,2025-05-13,CUST187,Paul Baker,Smartphone,Accessories,2,636.81,Credit Card,South Curtis,Turkey,1273.62
+ORD1231,2025-06-29,CUST960,Mark Watson,Laptop,Accessories,4,701.83,Bank Transfer,West Nancy,Northern Mariana Islands,2807.32
+ORD1232,2025-07-27,CUST618,Kaitlyn Harvey,Webcam,Electronics,4,465.45,Bank Transfer,South Joseland,Equatorial Guinea,1861.8
+ORD1233,2025-05-11,CUST190,Erin Bishop,Monitor,Accessories,4,635.01,Credit Card,Grimesville,Sierra Leone,2540.04
+ORD1234,2025-07-26,CUST450,Madison Marshall,Laptop,Accessories,4,592.63,PayPal,East Lisa,Marshall Islands,2370.52
+ORD1235,2025-01-29,CUST119,Marie Wilson,Mouse,Accessories,4,903.13,Credit Card,Michellechester,Niger,3612.52
+ORD1236,2025-05-25,CUST313,Andrew Ferrell,Mouse,Electronics,2,64.54,Bank Transfer,New Donald,Australia,129.08
+ORD1237,2025-04-01,CUST694,David Medina,Smartphone,Accessories,2,295.34,Bank Transfer,Port Jamie,Nauru,590.68
+ORD1238,2025-05-03,CUST429,Jacob Avery,Monitor,Accessories,3,951.4,Bank Transfer,New Michaelview,Australia,2854.2
+ORD1239,2025-02-01,CUST743,Kimberly Matthews,Monitor,Accessories,4,892.46,Gift Card,West Tiffany,Panama,3569.84
+ORD1240,2025-02-19,CUST385,Stacey Pena,Keyboard,Accessories,2,466.54,Bank Transfer,Keithview,Botswana,933.08
+ORD1241,2025-07-28,CUST386,Lisa Crosby,Monitor,Accessories,3,627.73,Bank Transfer,East Sydneychester,Palau,1883.19
+ORD1242,2025-04-09,CUST910,Michael Robinson,Headphones,Accessories,4,291.83,Credit Card,West Michelleberg,Taiwan,1167.32
+ORD1243,2025-07-18,CUST350,David Cox,Headphones,Electronics,1,204.36,Credit Card,East Dustin,Angola,204.36
+ORD1244,2025-07-09,CUST220,Mrs. Stephanie Newman,Monitor,Accessories,3,474.42,Credit Card,Mariafurt,Australia,1423.26
+ORD1245,2025-07-04,CUST692,Donald Donaldson,Webcam,Electronics,2,366.29,Gift Card,Thomasview,Portugal,732.58
+ORD1246,2025-03-29,CUST352,Samantha Davis,Webcam,Electronics,1,591.98,Gift Card,Brooksland,Brazil,591.98
+ORD1247,2025-03-16,CUST298,Mark Maddox,Headphones,Accessories,1,96.18,Bank Transfer,South Zacharyview,Israel,96.18
+ORD1248,2025-02-09,CUST767,Gavin Zhang,Webcam,Accessories,1,974.91,PayPal,Shawnfort,Kenya,974.91
+ORD1249,2025-03-16,CUST258,Christine Gallegos,Smartphone,Electronics,3,986.49,Bank Transfer,Brandiland,Hong Kong,2959.47
+ORD1250,2025-07-18,CUST239,Laurie Li,Keyboard,Electronics,2,704.2,PayPal,Reidstad,British Virgin Islands,1408.4
+ORD1251,2025-05-19,CUST196,Raymond Kramer,Headphones,Electronics,1,545.37,Credit Card,Port Amandaborough,Mayotte,545.37
+ORD1252,2025-02-13,CUST294,Destiny Riggs,Mouse,Accessories,4,323.34,Bank Transfer,Summersfort,El Salvador,1293.36
+ORD1253,2025-02-14,CUST849,Ms. Rebecca Rodriguez,Laptop,Electronics,1,817.52,Bank Transfer,Marcusport,Lebanon,817.52
+ORD1254,2025-06-20,CUST500,Bonnie Howard,Headphones,Accessories,1,691.04,Credit Card,Amyberg,Reunion,691.04
+ORD1255,2025-05-03,CUST167,Leah Smith,Headphones,Electronics,3,179.36,Bank Transfer,Kramerton,Cape Verde,538.08
+ORD1256,2025-07-06,CUST516,Cameron Fisher,Webcam,Electronics,3,912.71,Gift Card,North Conniemouth,Costa Rica,2738.13
+ORD1257,2025-02-11,CUST205,Arthur West,Monitor,Accessories,2,826.09,Gift Card,North Sarahburgh,Puerto Rico,1652.18
+ORD1258,2025-06-25,CUST528,Kevin Hayes,Smartphone,Accessories,4,950.8,PayPal,Bryantchester,Poland,3803.2
+ORD1259,2025-05-12,CUST433,Luis Acosta,Webcam,Electronics,3,731.21,Credit Card,Lake Regina,Niue,2193.63
+ORD1260,2025-06-26,CUST179,Mary Turner,Mouse,Electronics,1,621.15,Bank Transfer,Erikview,Algeria,621.15
+ORD1261,2025-02-22,CUST463,Amanda Lutz,Keyboard,Accessories,2,429.88,Credit Card,Lake Michaelland,Gabon,859.76
+ORD1262,2025-02-22,CUST406,Jessica Rodriguez,Laptop,Accessories,1,934.07,Credit Card,Elizabethburgh,Italy,934.07
+ORD1263,2025-06-06,CUST432,Jill Lam,Mouse,Accessories,1,868.74,PayPal,South Conniebury,Panama,868.74
+ORD1264,2025-05-01,CUST604,Charles Martinez,Webcam,Electronics,3,64.31,Bank Transfer,Riosville,Bolivia,192.93
+ORD1265,2025-05-15,CUST686,Lauren Joseph,Mouse,Accessories,2,45.84,Credit Card,East Thomasberg,Panama,91.68
+ORD1266,2025-03-02,CUST803,Kyle Phillips,Laptop,Electronics,4,388.93,PayPal,New Erin,Maldives,1555.72
+ORD1267,2025-03-21,CUST762,Jessica Mcguire,Webcam,Accessories,4,814.34,Credit Card,North Heatherville,Faroe Islands,3257.36
+ORD1268,2025-05-11,CUST958,Matthew Rich,Monitor,Accessories,3,987.53,Bank Transfer,Bensonfort,Niger,2962.59
+ORD1269,2025-07-17,CUST953,Sharon Jordan,Monitor,Electronics,3,167.41,Gift Card,East Patrickville,Netherlands,502.23
+ORD1270,2025-05-26,CUST953,Jennifer Wilcox,Smartphone,Electronics,2,602.25,Credit Card,West Michaelport,Reunion,1204.5
+ORD1271,2025-04-21,CUST263,Nicholas Edwards,Webcam,Accessories,4,393.27,Credit Card,South Kiara,Burundi,1573.08
+ORD1272,2025-03-11,CUST790,David Mckay,Webcam,Accessories,4,970.52,PayPal,Lake Victoria,Italy,3882.08
+ORD1273,2025-07-28,CUST744,Kara Davis,Headphones,Electronics,4,845.28,Gift Card,North Alyssa,Switzerland,3381.12
+ORD1274,2025-05-13,CUST677,Jeffrey Garner,Keyboard,Accessories,1,841.56,Bank Transfer,New Debramouth,United Arab Emirates,841.56
+ORD1275,2025-06-24,CUST680,Carlos Brown,Webcam,Electronics,4,479.32,Credit Card,Jenniferberg,Bosnia and Herzegovina,1917.28
+ORD1276,2025-06-19,CUST366,Kristina Santiago,Monitor,Electronics,1,426.52,PayPal,Jensenmouth,Madagascar,426.52
+ORD1277,2025-06-11,CUST204,Shane Pugh,Keyboard,Electronics,2,287.94,Gift Card,North Peggy,Saint Helena,575.88
+ORD1278,2025-03-09,CUST627,Thomas Williams,Laptop,Electronics,1,75.25,Credit Card,Port David,Nicaragua,75.25
+ORD1279,2025-06-16,CUST977,Erik Garcia,Webcam,Accessories,2,867.43,Gift Card,Bellchester,British Indian Ocean Territory (Chagos Archipelago),1734.86
+ORD1280,2025-03-30,CUST570,Brittney Olson,Monitor,Electronics,4,816.64,Bank Transfer,Kyliebury,Finland,3266.56
+ORD1281,2025-04-16,CUST386,Hayley Hawkins,Webcam,Electronics,4,999.72,PayPal,Deannabury,Brazil,3998.88
+ORD1282,2025-06-08,CUST507,Donald Perez,Monitor,Electronics,2,996.7,Gift Card,Kimberlytown,Slovenia,1993.4
+ORD1283,2025-06-04,CUST164,Justin Saunders,Keyboard,Accessories,3,564.32,Gift Card,Jamiehaven,Botswana,1692.96
+ORD1284,2025-04-11,CUST834,Megan Hawkins,Smartphone,Accessories,2,773.61,Credit Card,Lake Peter,Luxembourg,1547.22
+ORD1285,2025-04-24,CUST859,Mary Steele,Keyboard,Accessories,3,945.87,PayPal,Port Rachaelbury,Congo,2837.61
+ORD1286,2025-07-22,CUST747,Donald Farmer,Keyboard,Accessories,1,852.65,Gift Card,Cruzbury,Netherlands,852.65
+ORD1287,2025-05-09,CUST501,Heather White,Webcam,Accessories,1,262.4,Credit Card,Littleland,Cook Islands,262.4
+ORD1288,2025-04-26,CUST826,Matthew Jones,Smartphone,Electronics,1,461.53,Credit Card,West Sarahberg,Slovakia (Slovak Republic),461.53
+ORD1289,2025-02-21,CUST986,Valerie Davis,Headphones,Accessories,4,146.58,PayPal,Valenciashire,Estonia,586.32
+ORD1290,2025-03-18,CUST355,Jamie Chavez,Mouse,Electronics,1,954.97,Credit Card,Diazburgh,Switzerland,954.97
+ORD1291,2025-03-13,CUST426,Eric Nguyen,Smartphone,Electronics,3,614.05,Gift Card,Bestland,Maldives,1842.15
+ORD1292,2025-02-10,CUST220,Linda Ware,Laptop,Electronics,1,244.07,Credit Card,New Carlosview,Cook Islands,244.07
+ORD1293,2025-04-04,CUST976,Paul Williams,Headphones,Accessories,2,678.27,Gift Card,North Sandra,Guinea-Bissau,1356.54
+ORD1294,2025-02-02,CUST738,Jeremy Coleman,Mouse,Accessories,2,625.77,Credit Card,Hunterhaven,Romania,1251.54
+ORD1295,2025-05-23,CUST623,Jennifer Lewis,Webcam,Accessories,4,371.0,Credit Card,Hendersonfurt,Ireland,1484.0
+ORD1296,2025-05-16,CUST782,Haley Rodriguez,Smartphone,Electronics,2,131.29,Bank Transfer,Lake Amandaberg,French Polynesia,262.58
+ORD1297,2025-03-14,CUST123,Leslie Rose,Headphones,Accessories,3,678.14,PayPal,Christopherland,Central African Republic,2034.42
+ORD1298,2025-05-23,CUST920,Daniel Joyce,Laptop,Electronics,1,529.9,PayPal,Port Eric,Armenia,529.9
+ORD1299,2025-03-12,CUST977,Dan Dougherty,Laptop,Electronics,4,776.87,Bank Transfer,Peterland,Mayotte,3107.48
+ORD1300,2025-01-30,CUST652,Pamela Roberts,Smartphone,Electronics,1,529.76,Gift Card,Hollybury,Luxembourg,529.76
+ORD1301,2025-02-11,CUST573,Jonathan Jordan,Smartphone,Electronics,1,855.14,Bank Transfer,East Christopherchester,United States Minor Outlying Islands,855.14
+ORD1302,2025-06-15,CUST115,Joseph Hall,Mouse,Electronics,3,560.87,Credit Card,South Cherylton,Cote d'Ivoire,1682.61
+ORD1303,2025-05-31,CUST802,Mary Gomez,Keyboard,Accessories,2,569.72,Gift Card,Elizabethburgh,Portugal,1139.44
+ORD1304,2025-02-09,CUST727,Patrick Graham,Monitor,Accessories,2,879.12,PayPal,North Jeantown,Venezuela,1758.24
+ORD1305,2025-03-14,CUST295,Blake Edwards,Mouse,Accessories,1,415.41,Bank Transfer,South Stephanie,Liberia,415.41
+ORD1306,2025-02-11,CUST803,Jared Bowman,Headphones,Accessories,4,151.33,PayPal,Garyberg,Greenland,605.32
+ORD1307,2025-07-23,CUST574,Jared Burch,Laptop,Electronics,2,48.21,Credit Card,Jessicaville,Dominica,96.42
+ORD1308,2025-02-04,CUST717,Travis Stevens,Monitor,Accessories,4,760.03,PayPal,West Lindsayview,Afghanistan,3040.12
+ORD1309,2025-07-14,CUST387,Heidi Kim,Laptop,Accessories,2,627.9,Credit Card,West Jennifershire,American Samoa,1255.8
+ORD1310,2025-04-03,CUST907,Jeffrey Morales,Mouse,Electronics,4,710.0,Credit Card,South Spencerstad,Paraguay,2840.0
+ORD1311,2025-02-11,CUST197,Seth Reese,Headphones,Electronics,3,228.7,Bank Transfer,South Micheleburgh,Benin,686.1
+ORD1312,2025-05-08,CUST705,Richard Jones,Headphones,Accessories,4,153.64,PayPal,Ericville,United States of America,614.56
+ORD1313,2025-03-16,CUST286,Kerry Lee,Laptop,Accessories,3,34.25,PayPal,East Joycetown,Bouvet Island (Bouvetoya),102.75
+ORD1314,2025-03-24,CUST396,Heather Mullen,Laptop,Accessories,3,363.58,Bank Transfer,Port Michellebury,Syrian Arab Republic,1090.74
+ORD1315,2025-06-07,CUST421,Brittany Garcia,Monitor,Electronics,4,598.12,Gift Card,South Michaelberg,Montenegro,2392.48
+ORD1316,2025-05-03,CUST791,Christopher Hernandez,Keyboard,Accessories,3,404.4,Bank Transfer,Port Austin,Paraguay,1213.2
+ORD1317,2025-03-11,CUST578,Angela Bean,Laptop,Accessories,1,448.73,Gift Card,Walkerbury,Lithuania,448.73
+ORD1318,2025-05-13,CUST255,Julie Elliott,Smartphone,Electronics,3,906.08,Credit Card,Moonmouth,Canada,2718.24
+ORD1319,2025-02-23,CUST994,Melanie Macias,Headphones,Accessories,2,361.29,Bank Transfer,Margaretshire,Zambia,722.58
+ORD1320,2025-06-18,CUST181,Victoria Morris,Webcam,Electronics,4,523.71,PayPal,Davidton,Bermuda,2094.84
+ORD1321,2025-07-29,CUST350,Emily Gonzales,Laptop,Electronics,1,787.98,Credit Card,East Linda,Slovakia (Slovak Republic),787.98
+ORD1322,2025-07-19,CUST203,Mark Hogan,Monitor,Accessories,4,408.61,Bank Transfer,South Caseymouth,Madagascar,1634.44
+ORD1323,2025-05-19,CUST975,Heather Jones,Laptop,Accessories,2,629.64,Gift Card,Kiaraport,Belarus,1259.28
+ORD1324,2025-05-20,CUST233,Andrew Wood,Monitor,Accessories,2,865.12,Bank Transfer,Christophermouth,Saint Kitts and Nevis,1730.24
+ORD1325,2025-04-30,CUST955,Matthew Madden,Smartphone,Accessories,2,950.53,Credit Card,West Jamesshire,Saint Kitts and Nevis,1901.06
+ORD1326,2025-03-17,CUST390,Kirk Cruz,Mouse,Electronics,3,164.13,Gift Card,Jodibury,Bolivia,492.39
+ORD1327,2025-06-30,CUST986,Tiffany Stevenson,Keyboard,Electronics,3,928.06,Bank Transfer,Richardsonfort,United Kingdom,2784.18
+ORD1328,2025-04-30,CUST636,Terry Armstrong,Monitor,Electronics,4,502.27,Credit Card,Lake Rachel,Equatorial Guinea,2009.08
+ORD1329,2025-07-04,CUST923,Larry Mason,Smartphone,Electronics,4,273.08,PayPal,East Adam,Norway,1092.32
+ORD1330,2025-04-18,CUST255,Joanna Shepherd,Mouse,Accessories,1,469.95,Bank Transfer,Johnsonside,Djibouti,469.95
+ORD1331,2025-03-06,CUST805,Vickie Miller,Monitor,Electronics,1,980.43,PayPal,Cynthiatown,Korea,980.43
+ORD1332,2025-02-16,CUST272,Amanda Zimmerman,Mouse,Accessories,4,502.77,Bank Transfer,Aaronfurt,French Polynesia,2011.08
+ORD1333,2025-02-16,CUST163,Kelly Bishop MD,Keyboard,Accessories,3,342.18,Bank Transfer,Daltonhaven,Estonia,1026.54
+ORD1334,2025-06-05,CUST800,Jasmine Schroeder,Laptop,Accessories,2,640.73,Gift Card,South Travis,Kyrgyz Republic,1281.46
+ORD1335,2025-04-22,CUST230,Amy Mccoy,Monitor,Electronics,4,255.34,Credit Card,East Jenniferland,Australia,1021.36
+ORD1336,2025-04-07,CUST267,Gary Grant,Smartphone,Accessories,1,94.35,PayPal,East Phyllishaven,Bolivia,94.35
+ORD1337,2025-04-21,CUST161,David York,Keyboard,Electronics,3,146.3,Gift Card,Haynesstad,Suriname,438.9
+ORD1338,2025-04-18,CUST718,Lindsey Hernandez,Webcam,Accessories,4,145.48,PayPal,Villegasland,China,581.92
+ORD1339,2025-04-29,CUST157,Matthew Rangel,Webcam,Electronics,4,168.86,Gift Card,New Dennisfurt,Tunisia,675.44
+ORD1340,2025-07-15,CUST409,Matthew Bates,Headphones,Accessories,3,156.05,Credit Card,New Ashleychester,Armenia,468.15
+ORD1341,2025-06-19,CUST927,Michael Miller,Webcam,Accessories,4,648.06,PayPal,East Kelly,Timor-Leste,2592.24
+ORD1342,2025-02-08,CUST903,Maria Murphy,Headphones,Accessories,3,198.24,Bank Transfer,Sarafurt,French Guiana,594.72
+ORD1343,2025-06-08,CUST173,Michael Valentine,Headphones,Electronics,2,358.75,Gift Card,Louisview,Guyana,717.5
+ORD1344,2025-06-04,CUST845,Susan Davis DDS,Mouse,Accessories,3,898.85,Bank Transfer,North Sherry,Spain,2696.55
+ORD1345,2025-06-03,CUST878,Alicia Parker,Smartphone,Electronics,3,484.48,Gift Card,Port Kayla,Philippines,1453.44
+ORD1346,2025-02-17,CUST429,Gloria Miranda,Keyboard,Electronics,3,674.21,Gift Card,East Danielmouth,Germany,2022.63
+ORD1347,2025-02-09,CUST858,Zachary Moore,Webcam,Accessories,4,188.87,PayPal,Edwardsville,Japan,755.48
+ORD1348,2025-04-17,CUST222,Richard Romero,Laptop,Electronics,4,208.44,Gift Card,Tamiborough,Saint Vincent and the Grenadines,833.76
+ORD1349,2025-06-19,CUST166,Nancy Rose,Smartphone,Electronics,3,60.05,Credit Card,Parkerview,Brazil,180.15
+ORD1350,2025-04-04,CUST569,Sherri Williamson,Headphones,Accessories,4,185.56,PayPal,North Ericport,Bhutan,742.24
+ORD1351,2025-07-03,CUST458,Brittany White,Laptop,Electronics,1,293.02,Bank Transfer,East Marymouth,Thailand,293.02
+ORD1352,2025-07-15,CUST975,Lori Orr,Mouse,Accessories,1,193.47,Credit Card,North Jennifer,Senegal,193.47
+ORD1353,2025-02-19,CUST603,Amanda Diaz,Mouse,Accessories,4,106.93,Gift Card,Randyton,Tuvalu,427.72
+ORD1354,2025-03-18,CUST287,Tracy Bishop,Smartphone,Accessories,4,138.22,Credit Card,Jorgeburgh,Aruba,552.88
+ORD1355,2025-03-07,CUST904,Rachel Young,Monitor,Electronics,3,471.56,Bank Transfer,South Melissaside,Algeria,1414.68
+ORD1356,2025-03-06,CUST951,Vincent Mueller,Monitor,Accessories,2,222.21,PayPal,North Steven,Timor-Leste,444.42
+ORD1357,2025-05-13,CUST739,Cheyenne Gregory,Mouse,Accessories,4,376.98,Bank Transfer,North Alexander,Burundi,1507.92
+ORD1358,2025-04-26,CUST978,Jessica Hammond,Webcam,Accessories,1,513.35,Gift Card,East James,Panama,513.35
+ORD1359,2025-02-25,CUST212,Kathryn Barnes,Mouse,Accessories,3,696.59,Bank Transfer,Watsonland,Oman,2089.77
+ORD1360,2025-04-20,CUST819,Curtis Jacobs,Headphones,Accessories,4,58.53,PayPal,Samanthaland,Chile,234.12
+ORD1361,2025-03-05,CUST515,Amy Castillo,Smartphone,Electronics,1,803.42,PayPal,North Jamesmouth,Greenland,803.42
+ORD1362,2025-03-24,CUST299,Timothy Dawson,Headphones,Electronics,1,635.34,Gift Card,North Rebecca,Guinea-Bissau,635.34
+ORD1363,2025-04-28,CUST561,Belinda Miller,Laptop,Electronics,2,100.12,Bank Transfer,Davidmouth,Uganda,200.24
+ORD1364,2025-03-18,CUST985,Jerry Palmer,Headphones,Electronics,3,876.11,PayPal,East Sandrachester,Kazakhstan,2628.33
+ORD1365,2025-07-17,CUST410,Anna Lozano,Webcam,Accessories,3,922.45,Bank Transfer,Crawfordfurt,Zimbabwe,2767.35
+ORD1366,2025-07-27,CUST184,Stacey Arias,Keyboard,Accessories,2,79.86,Credit Card,Thompsonborough,Niger,159.72
+ORD1367,2025-02-12,CUST255,James Brooks,Monitor,Electronics,2,291.34,Gift Card,West Joshua,Ethiopia,582.68
+ORD1368,2025-04-25,CUST407,Brad Walker,Monitor,Accessories,3,810.08,Credit Card,North Christina,Turkey,2430.24
+ORD1369,2025-07-04,CUST612,Brett Espinoza,Headphones,Electronics,3,753.29,Credit Card,Lake Kenneth,Saint Martin,2259.87
+ORD1370,2025-07-15,CUST675,Charles Johnson,Laptop,Accessories,4,200.83,PayPal,Andradefort,Bermuda,803.32
+ORD1371,2025-07-14,CUST876,Kaitlyn Guerra,Headphones,Electronics,4,225.16,Credit Card,North Joshuaberg,Holy See (Vatican City State),900.64
+ORD1372,2025-05-15,CUST158,Julie Gilbert,Smartphone,Electronics,2,383.06,Bank Transfer,Gonzalezhaven,Suriname,766.12
+ORD1373,2025-02-17,CUST694,Alicia Lewis,Mouse,Accessories,4,494.83,Bank Transfer,Lake Virginia,Guam,1979.32
+ORD1374,2025-02-07,CUST524,Todd Lynch,Webcam,Accessories,1,625.89,Credit Card,South Kimberlystad,Cocos (Keeling) Islands,625.89
+ORD1375,2025-06-04,CUST948,Ricardo Young,Webcam,Electronics,4,381.54,Bank Transfer,Stephensfort,Brazil,1526.16
+ORD1376,2025-05-13,CUST677,David Fowler,Laptop,Electronics,4,473.28,Credit Card,Robertahaven,Iran,1893.12
+ORD1377,2025-07-10,CUST383,Amy Copeland,Webcam,Electronics,1,752.52,PayPal,Paulburgh,Iran,752.52
+ORD1378,2025-01-31,CUST289,Mr. Mark Andrews DDS,Headphones,Accessories,2,55.95,Bank Transfer,West Carlatown,Korea,111.9
+ORD1379,2025-02-16,CUST516,Aaron Gomez,Laptop,Electronics,1,267.39,PayPal,Brianfort,Faroe Islands,267.39
+ORD1380,2025-07-27,CUST246,Chelsea Barnett,Monitor,Accessories,4,719.08,Gift Card,Katiebury,Syrian Arab Republic,2876.32
+ORD1381,2025-06-24,CUST208,Heather Ashley,Monitor,Accessories,2,897.3,PayPal,North John,Hungary,1794.6
+ORD1382,2025-07-12,CUST136,Rachel Romero,Keyboard,Electronics,4,521.44,Credit Card,West Amanda,Portugal,2085.76
+ORD1383,2025-03-15,CUST257,Shane Williams,Monitor,Electronics,1,541.47,Gift Card,Port Wendybury,Thailand,541.47
+ORD1384,2025-03-02,CUST308,James Burgess,Smartphone,Accessories,1,125.03,Credit Card,Kellyburgh,Lesotho,125.03
+ORD1385,2025-04-17,CUST885,Austin Allen,Headphones,Accessories,4,458.46,Credit Card,East Brittany,South Georgia and the South Sandwich Islands,1833.84
+ORD1386,2025-05-03,CUST471,Ashley Perkins,Headphones,Electronics,3,541.96,PayPal,Robintown,Italy,1625.88
+ORD1387,2025-05-02,CUST121,Brandi Bell,Smartphone,Accessories,3,257.62,Gift Card,Staceyshire,Pakistan,772.86
+ORD1388,2025-03-11,CUST713,Marvin Greer,Mouse,Accessories,1,283.86,PayPal,New Stacy,Turks and Caicos Islands,283.86
+ORD1389,2025-07-15,CUST531,Veronica Mendoza,Keyboard,Electronics,1,389.74,PayPal,Weaverburgh,South Georgia and the South Sandwich Islands,389.74
+ORD1390,2025-04-16,CUST931,Chad Baldwin,Monitor,Accessories,3,39.67,PayPal,Johnsonton,Chad,119.01
+ORD1391,2025-07-23,CUST701,Amanda Harris,Headphones,Accessories,3,335.64,PayPal,New Jeffery,Bouvet Island (Bouvetoya),1006.92
+ORD1392,2025-02-09,CUST792,Stacey Stewart,Monitor,Accessories,4,227.22,Bank Transfer,Smithborough,Bulgaria,908.88
+ORD1393,2025-03-01,CUST784,James Ochoa,Laptop,Electronics,4,340.95,Credit Card,West Jennifer,Qatar,1363.8
+ORD1394,2025-04-12,CUST806,Andrew Lucas,Smartphone,Accessories,3,137.37,Bank Transfer,Brianberg,Saint Kitts and Nevis,412.11
+ORD1395,2025-01-29,CUST278,Scott Williams,Webcam,Electronics,4,892.72,Gift Card,Port Daniel,Bahamas,3570.88
+ORD1396,2025-04-14,CUST383,Denise Lloyd,Laptop,Electronics,4,601.72,Gift Card,Susanstad,Western Sahara,2406.88
+ORD1397,2025-03-21,CUST681,James Gonzales,Webcam,Accessories,2,685.52,Gift Card,Willismouth,Tanzania,1371.04
+ORD1398,2025-07-27,CUST218,Gina Lopez,Laptop,Electronics,4,793.39,Credit Card,Marcusburgh,Cayman Islands,3173.56
+ORD1399,2025-06-30,CUST136,Holly Salinas,Monitor,Accessories,1,508.47,PayPal,Connerfort,Bosnia and Herzegovina,508.47
+ORD1400,2025-06-30,CUST201,Bradley Coleman,Smartphone,Electronics,4,105.18,Credit Card,Grantside,Israel,420.72
+ORD1401,2025-04-27,CUST116,Zachary White,Headphones,Accessories,4,546.36,Gift Card,Jeffreyshire,United States Minor Outlying Islands,2185.44
+ORD1402,2025-03-25,CUST503,Brian Murphy,Headphones,Electronics,3,595.1,PayPal,South Kurt,Namibia,1785.3
+ORD1403,2025-04-21,CUST333,Jeremy Robbins,Webcam,Electronics,1,750.53,Credit Card,Davidtown,Liberia,750.53
+ORD1404,2025-06-13,CUST830,Jeremy West,Monitor,Electronics,4,443.03,Bank Transfer,Rosalesshire,Spain,1772.12
+ORD1405,2025-06-19,CUST110,Susan Mendez,Keyboard,Electronics,4,145.03,Gift Card,East Carriebury,Mongolia,580.12
+ORD1406,2025-06-30,CUST339,Mark Moody,Monitor,Accessories,2,298.1,Gift Card,South Donaldland,Philippines,596.2
+ORD1407,2025-05-16,CUST233,Michael Sullivan,Smartphone,Accessories,4,375.82,Bank Transfer,West Toni,Kazakhstan,1503.28
+ORD1408,2025-06-06,CUST449,Nicole Moore,Keyboard,Accessories,4,653.0,Credit Card,Lake Nicole,Cocos (Keeling) Islands,2612.0
+ORD1409,2025-06-17,CUST915,Samuel Gregory,Monitor,Accessories,2,579.36,Credit Card,Port Jennamouth,New Caledonia,1158.72
+ORD1410,2025-05-03,CUST223,Cameron Young,Headphones,Accessories,3,368.97,Gift Card,Smithborough,Hong Kong,1106.91
+ORD1411,2025-02-28,CUST899,Heidi Herring,Laptop,Accessories,4,986.78,Bank Transfer,Lake Carlos,Slovakia (Slovak Republic),3947.12
+ORD1412,2025-03-06,CUST533,Christian Cole,Keyboard,Electronics,2,613.66,PayPal,Kristintown,Guinea-Bissau,1227.32
+ORD1413,2025-03-27,CUST336,Jeremy Jones,Laptop,Electronics,1,252.48,Gift Card,South Samuelchester,New Caledonia,252.48
+ORD1414,2025-03-12,CUST757,Jacob Edwards,Keyboard,Electronics,3,119.75,PayPal,South Trevor,Antarctica (the territory South of 60 deg S),359.25
+ORD1415,2025-02-09,CUST147,Tyler Johnson,Smartphone,Accessories,1,169.8,Gift Card,Bellfurt,Tokelau,169.8
+ORD1416,2025-05-21,CUST937,Joseph Mcintyre,Smartphone,Accessories,1,261.04,Bank Transfer,Port Timothyshire,Poland,261.04
+ORD1417,2025-06-20,CUST109,Reginald Padilla,Webcam,Accessories,2,177.47,Credit Card,East Shannon,Turkmenistan,354.94
+ORD1418,2025-05-14,CUST310,Logan Benson,Monitor,Accessories,4,202.84,Gift Card,West Andrewview,Taiwan,811.36
+ORD1419,2025-02-09,CUST540,Mrs. Brandy Jones MD,Laptop,Accessories,2,299.39,PayPal,North Matthewfurt,Saint Lucia,598.78
+ORD1420,2025-06-23,CUST691,Yolanda Cochran,Keyboard,Electronics,2,189.91,Gift Card,Lake Charles,Uganda,379.82
+ORD1421,2025-03-30,CUST289,Victoria Contreras,Headphones,Electronics,2,898.83,Bank Transfer,West Brookefort,Bulgaria,1797.66
+ORD1422,2025-02-09,CUST610,Krista Roberts,Webcam,Accessories,2,98.63,Gift Card,South Sherriburgh,Liberia,197.26
+ORD1423,2025-02-07,CUST181,Christopher Mckinney,Keyboard,Electronics,3,534.02,Credit Card,Mooreville,Uruguay,1602.06
+ORD1424,2025-05-22,CUST495,Carrie Ward,Mouse,Electronics,4,422.19,Gift Card,Jamieborough,Libyan Arab Jamahiriya,1688.76
+ORD1425,2025-05-01,CUST234,William Conner,Headphones,Electronics,1,982.73,Credit Card,Terryside,Bouvet Island (Bouvetoya),982.73
+ORD1426,2025-05-06,CUST814,Johnny Ward,Smartphone,Accessories,1,129.8,PayPal,Donnaport,Tuvalu,129.8
+ORD1427,2025-07-26,CUST526,Julie Bird,Mouse,Accessories,4,409.9,Bank Transfer,North Brandon,Isle of Man,1639.6
+ORD1428,2025-07-13,CUST191,Stephen Jones,Webcam,Accessories,1,970.08,Gift Card,Hernandezstad,Kazakhstan,970.08
+ORD1429,2025-05-12,CUST844,Mitchell Mendoza,Smartphone,Electronics,4,868.2,Gift Card,South Christopherfort,Aruba,3472.8
+ORD1430,2025-02-28,CUST793,Jason Andrews,Keyboard,Accessories,1,820.73,Credit Card,North Anthony,Bahrain,820.73
+ORD1431,2025-02-09,CUST653,Evan Jones,Laptop,Electronics,2,272.74,Gift Card,Lake Kelly,Eritrea,545.48
+ORD1432,2025-05-07,CUST666,Joseph Anderson,Mouse,Accessories,1,187.47,Gift Card,South Meganport,Palau,187.47
+ORD1433,2025-02-13,CUST777,Kristen Matthews,Monitor,Accessories,4,675.27,PayPal,Ruizview,Germany,2701.08
+ORD1434,2025-07-13,CUST172,Betty Shaw,Keyboard,Electronics,4,930.79,Credit Card,Lake Amyburgh,American Samoa,3723.16
+ORD1435,2025-03-06,CUST697,Sandra Holmes,Laptop,Accessories,4,565.63,PayPal,Nicolestad,Romania,2262.52
+ORD1436,2025-02-11,CUST480,Christopher Donovan,Keyboard,Accessories,4,580.18,PayPal,South Bradley,Trinidad and Tobago,2320.72
+ORD1437,2025-05-24,CUST696,Travis Stone,Laptop,Electronics,4,294.38,PayPal,Marshallbury,Philippines,1177.52
+ORD1438,2025-02-11,CUST290,Blake Gonzalez,Headphones,Accessories,3,774.1,Gift Card,Anneberg,Mali,2322.3
+ORD1439,2025-06-09,CUST764,Denise Weber,Keyboard,Accessories,3,203.3,PayPal,North Elizabethside,Seychelles,609.9
+ORD1440,2025-07-15,CUST379,Anna Davidson,Keyboard,Electronics,1,337.21,Bank Transfer,Arellanoshire,Samoa,337.21
+ORD1441,2025-03-15,CUST949,Lauren Jackson,Keyboard,Electronics,4,436.93,PayPal,New Bruce,Montserrat,1747.72
+ORD1442,2025-04-17,CUST826,Stephanie Morgan,Headphones,Accessories,1,517.46,Bank Transfer,Cardenaschester,Saint Kitts and Nevis,517.46
+ORD1443,2025-02-21,CUST615,Amanda Shields,Smartphone,Accessories,4,257.56,Credit Card,Armstrongbury,Monaco,1030.24
+ORD1444,2025-07-30,CUST580,Travis Wise,Mouse,Electronics,4,132.54,Gift Card,Evansfurt,Czech Republic,530.16
+ORD1445,2025-07-20,CUST789,Daniel Armstrong,Monitor,Electronics,3,618.41,Credit Card,New Ashleyhaven,Zimbabwe,1855.23
+ORD1446,2025-05-19,CUST338,Amanda Small,Headphones,Accessories,3,302.86,Credit Card,North Stacy,Paraguay,908.58
+ORD1447,2025-03-17,CUST833,Maria Turner,Keyboard,Electronics,2,589.61,Gift Card,Thompsonburgh,Tunisia,1179.22
+ORD1448,2025-05-21,CUST463,Robert Sullivan,Laptop,Electronics,3,171.28,Bank Transfer,Port James,Guadeloupe,513.84
+ORD1449,2025-05-24,CUST361,Michael Moore,Mouse,Electronics,2,491.52,Credit Card,South Christianchester,Malaysia,983.04
+ORD1450,2025-02-05,CUST199,John Peterson,Webcam,Accessories,2,541.94,Bank Transfer,Port Courtney,Maldives,1083.88
+ORD1451,2025-05-29,CUST540,Scott Flores,Webcam,Accessories,2,70.79,PayPal,Luisland,Portugal,141.58
+ORD1452,2025-02-13,CUST921,Haley Ross PhD,Keyboard,Electronics,2,349.87,PayPal,South Angelaside,Reunion,699.74
+ORD1453,2025-04-20,CUST994,Ashley Allen,Monitor,Electronics,2,151.73,Gift Card,Melissahaven,Nicaragua,303.46
+ORD1454,2025-06-05,CUST643,Jerry Thomas,Headphones,Accessories,1,82.11,Bank Transfer,Starktown,Bhutan,82.11
+ORD1455,2025-05-22,CUST282,Tony Lin,Webcam,Electronics,3,990.16,Bank Transfer,Rodriguezberg,Jersey,2970.48
+ORD1456,2025-05-18,CUST103,Victor Barrera,Monitor,Electronics,2,335.91,Bank Transfer,New Brianna,Panama,671.82
+ORD1457,2025-05-10,CUST449,Taylor Griffith,Smartphone,Accessories,4,813.68,PayPal,North Annaville,Saint Lucia,3254.72
+ORD1458,2025-03-31,CUST458,Christopher Ferrell,Laptop,Electronics,3,269.55,PayPal,Mikaylastad,Egypt,808.65
+ORD1459,2025-07-29,CUST216,Shawn Jimenez,Laptop,Electronics,3,687.87,Gift Card,Bakerfort,Liberia,2063.61
+ORD1460,2025-03-20,CUST541,James Bryant,Keyboard,Electronics,2,765.02,Gift Card,Johnsonview,Guatemala,1530.04
+ORD1461,2025-03-09,CUST113,Kevin Williams,Mouse,Accessories,1,603.73,Bank Transfer,Thomasfurt,Panama,603.73
+ORD1462,2025-06-08,CUST936,Kyle Cameron,Headphones,Electronics,2,482.14,PayPal,South Pamelamouth,Philippines,964.28
+ORD1463,2025-06-17,CUST704,Donna Smith,Headphones,Electronics,1,423.6,Gift Card,North Julie,Norway,423.6
+ORD1464,2025-03-31,CUST568,Cesar Baker,Headphones,Electronics,4,361.89,Credit Card,Pennytown,Hungary,1447.56
+ORD1465,2025-03-16,CUST602,Jamie Williams,Keyboard,Accessories,3,930.94,Bank Transfer,Lisaport,Canada,2792.82
+ORD1466,2025-03-21,CUST167,Justin Cox,Monitor,Electronics,4,834.01,PayPal,Juanfort,Taiwan,3336.04
+ORD1467,2025-04-15,CUST971,James Cole,Keyboard,Electronics,1,965.73,Gift Card,Port Jeremyport,Sweden,965.73
+ORD1468,2025-02-23,CUST190,Samantha Hanson,Webcam,Electronics,1,141.81,PayPal,Schroedermouth,Micronesia,141.81
+ORD1469,2025-06-08,CUST545,Betty Davis,Webcam,Accessories,4,736.25,PayPal,Jessicaland,Uganda,2945.0
+ORD1470,2025-06-03,CUST728,William Grant,Monitor,Electronics,1,939.57,Gift Card,South Jason,New Caledonia,939.57
+ORD1471,2025-03-28,CUST618,Charles Morrison,Headphones,Accessories,4,197.61,Bank Transfer,Figueroahaven,Austria,790.44
+ORD1472,2025-04-27,CUST378,Andrew Williams,Keyboard,Electronics,3,85.17,Credit Card,Lorihaven,Algeria,255.51
+ORD1473,2025-03-31,CUST843,Regina Stone,Webcam,Accessories,4,746.3,PayPal,North Larry,Norway,2985.2
+ORD1474,2025-07-28,CUST758,Steven Taylor,Keyboard,Electronics,3,582.98,Credit Card,Taylorhaven,Vietnam,1748.94
+ORD1475,2025-06-23,CUST799,Emily Long,Laptop,Accessories,4,844.99,Bank Transfer,East Jamesborough,Cayman Islands,3379.96
+ORD1476,2025-07-29,CUST153,Sarah Wheeler,Monitor,Accessories,1,156.98,PayPal,East Antonioton,Macedonia,156.98
+ORD1477,2025-02-12,CUST158,Katrina Burns,Keyboard,Electronics,4,799.36,Bank Transfer,Janetview,Thailand,3197.44
+ORD1478,2025-01-30,CUST320,Karen Smith,Headphones,Accessories,1,217.59,Gift Card,Madisonhaven,Latvia,217.59
+ORD1479,2025-04-27,CUST384,Brian Butler,Mouse,Electronics,4,180.38,PayPal,Reidville,Timor-Leste,721.52
+ORD1480,2025-05-29,CUST261,Steven Wiggins,Mouse,Electronics,4,180.98,Gift Card,East Nathanmouth,Lithuania,723.92
+ORD1481,2025-05-18,CUST556,Linda Baker,Monitor,Electronics,2,818.28,Gift Card,Port Thomas,Trinidad and Tobago,1636.56
+ORD1482,2025-02-17,CUST615,Valerie Lane,Monitor,Accessories,1,671.89,PayPal,Maxview,Chad,671.89
+ORD1483,2025-02-12,CUST521,Anthony Castillo,Headphones,Accessories,2,532.6,Bank Transfer,West Anthonyton,Belarus,1065.2
+ORD1484,2025-05-13,CUST326,Michelle Hampton,Mouse,Electronics,1,371.65,Bank Transfer,Port Ashley,Sao Tome and Principe,371.65
+ORD1485,2025-03-11,CUST565,Roberto Allen,Smartphone,Accessories,2,879.66,PayPal,Port Jeffrey,Liechtenstein,1759.32
+ORD1486,2025-05-07,CUST669,Melody Lee,Smartphone,Electronics,3,404.6,Bank Transfer,Lake Jamie,Gibraltar,1213.8
+ORD1487,2025-03-21,CUST218,Jason Gutierrez,Keyboard,Electronics,4,820.27,Credit Card,Palmertown,Dominican Republic,3281.08
+ORD1488,2025-02-23,CUST116,Jonathan Carr,Webcam,Accessories,1,450.35,Bank Transfer,Buckburgh,Greenland,450.35
+ORD1489,2025-07-29,CUST971,Ryan Luna,Keyboard,Electronics,1,389.41,Credit Card,East Johnnyport,Fiji,389.41
+ORD1490,2025-04-06,CUST370,Kelly Hoffman,Webcam,Electronics,4,473.43,Gift Card,Rodneyfurt,Australia,1893.72
+ORD1491,2025-07-19,CUST777,Mrs. Jamie Frye DDS,Monitor,Accessories,1,315.35,Credit Card,Stephenborough,Macedonia,315.35
+ORD1492,2025-02-11,CUST425,Kimberly Lowe,Mouse,Accessories,1,752.66,Bank Transfer,Turnerhaven,Czech Republic,752.66
+ORD1493,2025-07-18,CUST535,Melanie Lara,Laptop,Accessories,2,512.67,PayPal,Silvatown,Mayotte,1025.34
+ORD1494,2025-03-17,CUST512,John Bernard,Webcam,Electronics,1,247.57,PayPal,Annaport,Norway,247.57
+ORD1495,2025-04-10,CUST301,Edwin David,Smartphone,Accessories,3,901.58,Gift Card,Gabriellefort,Honduras,2704.74
+ORD1496,2025-03-25,CUST299,Dr. Michele Vaughn,Smartphone,Accessories,3,396.21,Gift Card,West Vanessamouth,Iraq,1188.63
+ORD1497,2025-02-28,CUST921,John Castro DVM,Keyboard,Electronics,4,552.68,Credit Card,Joseport,Svalbard & Jan Mayen Islands,2210.72
+ORD1498,2025-04-24,CUST837,Donna Berry,Mouse,Accessories,1,908.34,PayPal,East Zachary,Dominica,908.34
+ORD1499,2025-07-09,CUST134,Stephanie Foster,Mouse,Electronics,4,631.75,PayPal,North Linda,Belgium,2527.0
